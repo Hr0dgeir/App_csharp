@@ -1,0 +1,21 @@
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant proje.csproj.AssemblyReference.cache
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.Form1.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.hesapolustur.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.Properties.Resources.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant proje.csproj.GenerateResource.cache
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant proje.csproj.CoreCompileInputs.cache
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\bin\Debug\Restorant proje.exe.config
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\bin\Debug\Restorant proje.exe
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\bin\Debug\Restorant proje.pdb
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\bin\Debug\Guna.UI2.dll
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant proje.csproj.CopyComplete
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant proje.exe
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant proje.pdb
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.Ana_panel.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.Yemek_fiyat.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.masalar.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.Masa_siparis_durumu.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.icecek_fiyat_yonetim.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.kullanici_ayarlari.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.yonetici_panel.resources
+C:\Users\m3rt1\source\repos\Restorant proje\Restorant proje\obj\Debug\Restorant_proje.sifremi_unuttum.resources
