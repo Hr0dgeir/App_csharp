@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EA8006D-6233-4500-84A6-F141167BB514}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>muzik_market_performans</RootNamespace>
+    <AssemblyName>muzik market performans</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ana_panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ana_panel.Designer.cs">
+      <DependentUpon>Ana_panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bilgileri_kontrol_et.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gelir_gider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gelir_gider.Designer.cs">
+      <DependentUpon>gelir_gider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gelir_gider_islemler.cs" />
+    <Compile Include="giris.cs" />
+    <Compile Include="Hesap_olustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hesap_olustur.Designer.cs">
+      <DependentUpon>Hesap_olustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullaniciEkle.cs" />
+    <Compile Include="kullanici_ayarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici_ayarlari.Designer.cs">
+      <DependentUpon>kullanici_ayarlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici_bilgileri.cs" />
+    <Compile Include="Kullanici_guncelle.cs" />
+    <Compile Include="muzik.cs" />
+    <Compile Include="muzik_islemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="muzik_islemler.Designer.cs">
+      <DependentUpon>muzik_islemler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Satilan_urunler.cs" />
+    <Compile Include="Satis_islemleri.cs" />
+    <Compile Include="sha256.cs" />
+    <Compile Include="sifremi_unuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifremi_unuttum.Designer.cs">
+      <DependentUpon>sifremi_unuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Urunler_panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Urunler_panel.Designer.cs">
+      <DependentUpon>Urunler_panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urun_islemleri.cs" />
+    <EmbeddedResource Include="Ana_panel.resx">
+      <DependentUpon>Ana_panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gelir_gider.resx">
+      <DependentUpon>gelir_gider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hesap_olustur.resx">
+      <DependentUpon>Hesap_olustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici_ayarlari.resx">
+      <DependentUpon>kullanici_ayarlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="muzik_islemler.resx">
+      <DependentUpon>muzik_islemler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sifremi_unuttum.resx">
+      <DependentUpon>sifremi_unuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Urunler_panel.resx">
+      <DependentUpon>Urunler_panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

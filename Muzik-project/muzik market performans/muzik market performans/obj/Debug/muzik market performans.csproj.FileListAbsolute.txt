@@ -1,0 +1,19 @@
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\bin\Debug\muzik market performans.exe.config
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\bin\Debug\muzik market performans.exe
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\bin\Debug\muzik market performans.pdb
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\bin\Debug\Guna.UI2.dll
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik market performans.csproj.AssemblyReference.cache
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.Form1.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.Hesap_olustur.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.Properties.Resources.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik market performans.csproj.GenerateResource.cache
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik market performans.csproj.CoreCompileInputs.cache
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik market performans.exe
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik market performans.pdb
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.Ana_panel.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik ma.651EBFCC.Up2Date
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.Urunler_panel.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.muzik_islemler.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.kullanici_ayarlari.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.gelir_gider.resources
+C:\Users\m3rt1\source\repos\muzik market performans\muzik market performans\obj\Debug\muzik_market_performans.sifremi_unuttum.resources
